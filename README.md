@@ -21,3 +21,7 @@ This project creates a streamlit application for LP_2 Regression Project
 2. Streamlit-based GUI for input collection and sales predictions.
 3. Comprehensive documentation of the project, including methodology, model architecture, and evaluation results.
 4. Visualizations and insights on key factors impacting sales.
+
+# Machine Learning Model
+
+# Streamlit Graphical User Interface (GUI)
